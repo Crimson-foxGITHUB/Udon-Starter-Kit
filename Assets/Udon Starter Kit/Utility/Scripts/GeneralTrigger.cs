@@ -1,6 +1,5 @@
 ﻿
 using System;
-using Microsoft.SqlServer.Server;
 using UdonSharp;
 using UnityEngine;
 using UnityEngine.SocialPlatforms;
